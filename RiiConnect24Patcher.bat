@@ -1,4 +1,4 @@
-@echo off
+@echo on
 setlocal enableextensions
 setlocal DisableDelayedExpansion
 cd /d "%~dp0"
